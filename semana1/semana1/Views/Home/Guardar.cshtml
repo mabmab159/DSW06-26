@@ -1,0 +1,28 @@
+﻿<h2>Registro de datos</h2>
+<form action="Guardar" method="post">
+    <table>
+        <tr>
+            <td>Id</td>
+            <td><input name="id" value="@ViewBag.id"/></td>
+        </tr>
+        <tr>
+            <td>Nombre</td>
+            <td><input name="name" value="@ViewBag.name"/></td>
+        </tr>
+        <tr>
+            <td> <input type="submit" value="Guardar" /></td>
+        </tr>
+    </table>
+</form> 
+<div>
+    <table>
+        <tr>
+            <td>Id registrado: </td>
+            <td>@ViewBag.id</td>
+        </tr>
+        <tr>
+            <td>Nombre registrado</td>
+            <td>@ViewBag.name</td>
+        </tr>
+    </table>
+</div>

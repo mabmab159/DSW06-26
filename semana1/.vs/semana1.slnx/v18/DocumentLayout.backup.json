@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|c:\\users\\root\\desktop\\dsw06-26\\semana1\\semana1\\views\\home\\vistacss2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|solutionrelative:semana1\\views\\home\\vistacss2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|c:\\users\\root\\desktop\\dsw06-26\\semana1\\semana1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|solutionrelative:semana1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|c:\\users\\root\\desktop\\dsw06-26\\semana1\\semana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|solutionrelative:semana1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|c:\\users\\root\\desktop\\dsw06-26\\semana1\\semana1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|solutionrelative:semana1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|c:\\users\\root\\desktop\\dsw06-26\\semana1\\semana1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3497F7-5DDA-6C7C-1ABF-7350C0D6CE6B}|semana1\\semana1.csproj|solutionrelative:semana1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "semana1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "semana1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T19:12:48.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistaCSS2.cshtml",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Views\\Home\\VistaCSS2.cshtml",
+              "RelativeDocumentMoniker": "semana1\\Views\\Home\\VistaCSS2.cshtml",
+              "ToolTip": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Views\\Home\\VistaCSS2.cshtml",
+              "RelativeToolTip": "semana1\\Views\\Home\\VistaCSS2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T19:10:46.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "semana1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "semana1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:07:32.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "semana1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "semana1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:07:15.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Program.cs",
+              "RelativeDocumentMoniker": "semana1\\Program.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\DSW06-26\\semana1\\semana1\\Program.cs",
+              "RelativeToolTip": "semana1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:59:56.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
