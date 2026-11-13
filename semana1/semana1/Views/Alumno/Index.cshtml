@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Alumno>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Pagina Index</h2>
+
+<p>
+@Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table row">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Apellido
+        </th>
+        <th>
+            Correo
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+            <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+            <td>@Html.DisplayFor(modelItem => item.Apellido)</td>
+            <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+        </tr>
+    }
+</table>

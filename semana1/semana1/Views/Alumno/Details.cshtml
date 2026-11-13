@@ -1,0 +1,21 @@
+﻿@model Alumno
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Pagina Details</h2>
+
+<div>
+    <h1>Alumno</h1>
+    <dl>
+        <dt>Id</dt>
+        <dd>@Html.DisplayFor(model => model.Id)</dd> 
+        <dt>Nombre</dt>
+        <dd>@Html.DisplayFor(model => model.Nombre)</dd>
+        <dt>Apellido</dt>
+        <dd>@Html.DisplayFor(model => model.Apellido)</dd>
+        <dt>Correo</dt>
+        <dd>@Html.DisplayFor(model => model.Correo)</dd>
+    </dl>
+</div>
