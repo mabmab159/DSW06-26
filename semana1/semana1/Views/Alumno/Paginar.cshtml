@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Alumno>
+
+@{
+    ViewData["Title"] = "Paginacion";
+}
+
+<h2>Paginacion</h2>
+
+
+<table class="table row">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Apellido
+        </th>
+        <th>
+            Correo
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+            <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+            <td>@Html.DisplayFor(modelItem => item.Apellido)</td>
+            <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+        </tr>
+    }
+</table>
+
+<!--Agregar el metodo de paginacion-->
+<div>
+    @for (int i = 0; i < ViewBag.cantidadPaginas; i++)
+    {
+        <a asp-action="Paginar" asp-route-pagina=@i
+        >@(i + 1)</a>
+    }
+</div>
+
+<div>
+    @Html.ActionLink("Regresando al Menu", "Index")
+</div>

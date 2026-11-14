@@ -38,8 +38,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mabmab/Desktop/VM11/DSW06-26/semana1/semana1/Views/Alumno/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mabmab/Desktop/VM11/DSW06-26/semana1/semana1/Views/Alumno/Filtrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vL0ZpbHRyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mabmab/Desktop/VM11/DSW06-26/semana1/semana1/Views/Alumno/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mabmab/Desktop/VM11/DSW06-26/semana1/semana1/Views/Alumno/Paginar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bW5vL1BhZ2luYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mabmab/Desktop/VM11/DSW06-26/semana1/semana1/Views/Home/Busqueda.cshtml]
