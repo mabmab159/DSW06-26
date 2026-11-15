@@ -1,0 +1,41 @@
+﻿@model Empleado
+
+@{
+    ViewData["Title"] = "Creacion de Empleados";
+}
+
+<h1>Formulario de Empleados</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        <div>
+            @Html.LabelForModel("Nombre")
+            @Html.EditorFor(model => model.Nombre)
+        </div>
+        <div>
+            @Html.LabelForModel("ApellidoPaterno")
+            @Html.EditorFor(model => model.ApellidoPaterno)
+        </div>
+        <div>
+            @Html.LabelForModel("ApellidoMaterno")
+            @Html.EditorFor(model => model.ApellidoMaterno)
+        </div>
+        <div>
+            @Html.LabelForModel("Direccion")
+            @Html.EditorFor(model => model.Direccion)
+        </div>
+        <div>
+            @Html.LabelForModel("Telefono")
+            @Html.EditorFor(model => model.Telefono)
+        </div>
+    </div>
+    @ViewBag.Mensaje
+    <div>
+        <input type="submit" value="Create"/>
+    </div>
+}
+<div>
+    @Html.ActionLink("Lista Empleados", "Index");
+</div>

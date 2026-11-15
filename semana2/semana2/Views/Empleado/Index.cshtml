@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Empleado>
+
+@{
+    ViewData["Title"] = "Lista de Empleados";
+}
+
+<h1>Lista de empleados</h1>
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>ApellidoPaterno</th>
+        <th>ApellidoMaterno</th>
+        <th>Direccion</th>
+        <th>Telefono</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+            <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+            <td>@Html.DisplayFor(modelItem => item.ApellidoPaterno)</td>
+            <td>@Html.DisplayFor(modelItem => item.ApellidoMaterno)</td>
+            <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+            <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+        </tr>
+    }
+</table>

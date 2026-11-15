@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oOGlgbQJq0=",
+  "success": true,
+  "projectFilePath": "/Users/mabmab/Desktop/VM11/DSW06-26/semana2/semana2/semana2.csproj",
+  "expectedPackageFiles": [
+    "/Users/mabmab/.nuget/packages/microsoft.bcl.cryptography/10.0.13/microsoft.bcl.cryptography.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient/8.0.0-preview1.26313.4/microsoft.data.sqlclient.8.0.0-preview1.26313.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient.extensions.abstractions/8.0.0-preview1.26313.4/microsoft.data.sqlclient.extensions.abstractions.8.0.0-preview1.26313.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient.internal.logging/8.0.0-preview1.26313.4/microsoft.data.sqlclient.internal.logging.8.0.0-preview1.26313.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient.sni.runtime/8.0.0-preview1.26309.4/microsoft.data.sqlclient.sni.runtime.8.0.0-preview1.26309.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/system.configuration.configurationmanager/10.0.13/system.configuration.configurationmanager.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/system.security.cryptography.pkcs/10.0.13/system.security.cryptography.pkcs.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/system.security.cryptography.protecteddata/10.0.13/system.security.cryptography.protecteddata.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
