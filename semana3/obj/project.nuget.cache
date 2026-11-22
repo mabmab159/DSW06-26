@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "UTA4laQO+d4=",
+  "success": true,
+  "projectFilePath": "/Users/mabmab/Desktop/VM11/DSW06-26/semana3/semana3.csproj",
+  "expectedPackageFiles": [
+    "/Users/mabmab/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.bcl.cryptography/10.0.13/microsoft.bcl.cryptography.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient/8.0.0-preview1.26313.4/microsoft.data.sqlclient.8.0.0-preview1.26313.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient.extensions.abstractions/8.0.0-preview1.26313.4/microsoft.data.sqlclient.extensions.abstractions.8.0.0-preview1.26313.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient.internal.logging/8.0.0-preview1.26313.4/microsoft.data.sqlclient.internal.logging.8.0.0-preview1.26313.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.data.sqlclient.sni.runtime/8.0.0-preview1.26309.4/microsoft.data.sqlclient.sni.runtime.8.0.0-preview1.26309.4.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/system.configuration.configurationmanager/10.0.13/system.configuration.configurationmanager.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/system.security.cryptography.pkcs/10.0.13/system.security.cryptography.pkcs.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/system.security.cryptography.protecteddata/10.0.13/system.security.cryptography.protecteddata.10.0.13.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.netcore.app.ref/10.0.15/microsoft.netcore.app.ref.10.0.15.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.15/microsoft.aspnetcore.app.ref.10.0.15.nupkg.sha512",
+    "/Users/mabmab/.nuget/packages/microsoft.netcore.app.host.osx-arm64/10.0.15/microsoft.netcore.app.host.osx-arm64.10.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "/Users/mabmab/Desktop/VM11/DSW06-26/semana3/semana3.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/mabmab/Desktop/VM11/DSW06-26/semana3/semana3.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
